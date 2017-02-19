@@ -1,14 +1,13 @@
 # QRCodeScan
-***
+
 iOS扫码控件，可以对二维码进行扫描以及从相册选取二维码识别
-***
+
 
 #效果图
 
 ![](https://github.com/695331437/QRCodeScan/raw/master/picture/QRCode.gif)
 
 
-***
 #关键代码如下
 
 使用iOS原生控件进行扫码
